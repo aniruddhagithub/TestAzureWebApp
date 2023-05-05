@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aniru\\source\\repos\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP.csproj": {}
+    "C:\\Users\\aniru\\Desktop\\TestAzureWebApp\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aniru\\source\\repos\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP.csproj": {
+    "C:\\Users\\aniru\\Desktop\\TestAzureWebApp\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aniru\\source\\repos\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP.csproj",
+        "projectUniqueName": "C:\\Users\\aniru\\Desktop\\TestAzureWebApp\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP.csproj",
         "projectName": "TestAzureMVCWebAPP",
-        "projectPath": "C:\\Users\\aniru\\source\\repos\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP.csproj",
+        "projectPath": "C:\\Users\\aniru\\Desktop\\TestAzureWebApp\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP.csproj",
         "packagesPath": "C:\\Users\\aniru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aniru\\source\\repos\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP\\obj\\",
+        "outputPath": "C:\\Users\\aniru\\Desktop\\TestAzureWebApp\\TestAzureMVCWebAPP\\TestAzureMVCWebAPP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
